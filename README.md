@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software engineer with a focus in DevOps and software delivery. 
+
+You can check out my resume (here)[https://github.com/drwarner/resume/blob/master/main.md]
+
 <!--
 **drwarner/drwarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
