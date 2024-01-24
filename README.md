@@ -2,7 +2,10 @@
 
 I'm a software engineer with a focus in DevOps and software delivery. 
 
-You can check out my resume [here](https://github.com/drwarner/resume/blob/master/main.md)
+Due to ongoing ethical concerns with regard to Microsoft and GitHub's data harvesting practices, I am currently in the process of migrating to self-hosted [Forgejo](https://forgejo.org/).
+
+Please see this article from the SF Conservancy for more information: https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/
+
 
 <!--
 **drwarner/drwarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
